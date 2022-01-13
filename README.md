@@ -7,8 +7,8 @@
 
 ### インターネット
 
-- [インターネットの仕組み](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/ff8e601a860e417247e155693396bceb5deef79f/How-does-the-internet-work/How-does-the-internet-work.md) ←今ここ
-- HTTP とは？
+- [インターネットの仕組み](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/ff8e601a860e417247e155693396bceb5deef79f/How-does-the-internet-work/How-does-the-internet-work.md)
+- [HTTP とは？](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/main/what-is-http/what-is-http.md) ←今ここ
 - ブラウザと、その動作
 - DNS と、その動作
 - ドメイン名とは？
