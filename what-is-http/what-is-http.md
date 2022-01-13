@@ -13,3 +13,5 @@ HTTPのやりとりでは、通信の内容は暗号化されていないため�
 - HTTPSもHTTPと同じプロトコルの一つ
  - HTTPSはHTTPにSSL/TSLという暗号化の通信機能が付随したものがHTTPS 
 - HTTPSは `HyperText Transfer Protocol　Secure` の略
+
+書きかけ
