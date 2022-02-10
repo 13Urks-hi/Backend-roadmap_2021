@@ -10,7 +10,7 @@
 - [インターネットの仕組み](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/ff8e601a860e417247e155693396bceb5deef79f/How-does-the-internet-work/How-does-the-internet-work.md)
 - [HTTP とは？](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/main/what-is-http/what-is-http.md)
 - [ブラウザと、その動作](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/main/browsers-and-how-they-work/browsers-and-how-they-work.md)
-- [DNS と、その動作] ←今ここ
+- [DNS と、その動作](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/main/DNS-and-how-it-work/DNS-and-how-it-work.md) ←今ここ
 - ドメイン名とは？
 
 ### フロントエンドの基本的な知識
