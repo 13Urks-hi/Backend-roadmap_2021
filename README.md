@@ -14,13 +14,13 @@
 - [ドメイン名とは？](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/main/What-is-Domain-Name/What-is-Domain-Name.md)
 - ホスティングとは？
 
-### フロントエンドの基本的な知識 　←　今ここ
+### フロントエンドの基本的な知識 　
 
 - HTML
 - CSS
 - JavaScript
 
-### OS の一般的な知識
+### OS の一般的な知識←　今ここ
 
 - ターミナルの使い方
 - OS の一般的な知識
