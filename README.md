@@ -11,9 +11,10 @@
 - [HTTP とは？](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/main/what-is-http/what-is-http.md)
 - [ブラウザと、その動作](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/main/browsers-and-how-they-work/browsers-and-how-they-work.md)
 - [DNS と、その動作](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/main/DNS-and-how-it-work/DNS-and-how-it-work.md)
-- ドメイン名とは？　←　今ここ
+- [ドメイン名とは？](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/main/What-is-Domain-Name/What-is-Domain-Name.md)
+- ホスティングとは？
 
-### フロントエンドの基本的な知識
+### フロントエンドの基本的な知識 　←　今ここ
 
 - HTML
 - CSS
