@@ -23,7 +23,7 @@
 
 ### OS の一般的な知識
 
-- ターミナルの使い方
+- [ターミナルの使い方](https://github.com/13Urks-hi/Backend-roadmap_2021/blob/main/Terminal-Usage/terminal-usage.md)
 - OS の一般的な知識
 - プロセス管理
 - スレッドと並行性
